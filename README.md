@@ -6,6 +6,6 @@ Bài tập lớn cho môn Tích hợp dịch vụ: Tự động xử lý email h
 `python -m venv .venv`
 `source .venv/bin/activate`
 ## Cài đặt các thư viện cần thiết
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 ## Bổ sung cần thiết
 Cần bổ sung các file certificate của dự án (credentials.json) và của service account (gen-lang-client-....json) cũng như các api key cần thiết của google, telegram, ebay...
